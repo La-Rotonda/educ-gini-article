@@ -7,7 +7,7 @@
 *			  for LATAM countries and make a descriptive analysis
 
 * Inputs	: i) Barro & Lee educational attaintment dataset (1950-2010)
-*			  ii) Ziesemer, THW (2016) Gini Coefficients of Education for 146 Countries, 1950-2010
+*			      ii) Ziesemer, THW (2016) Gini Coefficients of Education for 146 Countries, 1950-2010
 
 * Outputs	: Plots
 
